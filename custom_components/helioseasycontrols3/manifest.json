@@ -1,0 +1,10 @@
+{
+  "domain": "helioseasycontrols3",
+  "name": "HeliosEasyControls3",
+  "documentation": "https://github.com/LukasMerz/helioseasycontrols3",
+  "issue_tracker": "https://github.com/LukasMerz/helioseasycontrols3/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@LukasMerz"],
+  "requirements": []
+}

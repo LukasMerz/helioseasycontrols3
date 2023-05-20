@@ -1,0 +1,11 @@
+{
+  "_output_dir": "C:\\CMI-GitHub\\HeliosEasyControls3",
+  "_template": "gh:oncleben31/cookiecutter-homeassistant-custom-component",
+  "class_name_prefix": "Helioseasycontrols3",
+  "domain_name": "helioseasycontrols3",
+  "friendly_name": "HeliosEasyControls3",
+  "github_user": "LukasMerz",
+  "project_name": "helioseasycontrols3",
+  "test_suite": "yes",
+  "version": "0.0.1"
+}
